@@ -23,6 +23,7 @@ Wir werden das ändern.
 ##[Vereinsorgane](9-0-Vereinsorgane.md)
 ###[Die Generalversammlung](9-1-Generalversammlung.md)
 ###[Der Vorstand](9-2-Vorstand.md)
+###[Die Rechnungsprüfer\*innen](9-3-RechnungsprueferInnen.md)
 
 ##Todo
 Geschäftsordnung?!
