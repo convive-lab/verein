@@ -24,6 +24,7 @@ Wir werden das ändern.
 ###[Die Generalversammlung](9-1-Generalversammlung.md)
 ###[Der Vorstand](9-2-Vorstand.md)
 ###[Die Rechnungsprüfer\*innen](9-3-RechnungsprueferInnen.md)
+###[Das Koordinator\*innengremium](9-4-KoordinatorInnengremium.md)
 
 ##Todo
 Geschäftsordnung?!

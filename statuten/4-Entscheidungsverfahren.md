@@ -1,6 +1,8 @@
 ## Entscheidungsverfahren
 
-Alle Organe des Vereins entscheiden, wenn nicht anders festgehalten, im Konsent. Es kann entschieden werden eine einzelne Entscheidung nach einem anderen Verfahren zu entscheiden.
+1. Alle Organe des Vereins entscheiden, wenn nicht anders festgehalten, im Konsent. Es kann entschieden werden eine einzelne Entscheidung nach einem anderen Verfahren zu entscheiden.
+
+2. Die Entscheidungen der Vereinsorgane sind prinzipiell für alle Mitglieder verbindlich. Es steht den Mitgliedern frei Einwände vorzubringen.
 
 ### Der Konsent
 Der Konsent wird auf Basis des [Vereinszweckes](2-Zweck.md) gefunden. Der Konsent kann jederzeit widerrufen werden.  
