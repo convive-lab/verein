@@ -1,8 +1,8 @@
 ## Vereinsorgane
 
-(1) Die Organe des Vereins setzen sich aus ordentlichen Mitgliedern zusammen.
+1. Die Organe des Vereins setzen sich aus ordentlichen Mitgliedern zusammen.
 
-(2) Es ist darauf zu achten, dass in allen Vereinsorganen und bei sonstigen Aufgabenbereichen im Rahmen der Vereinsarbeit eine geschlechtliche Parität von 50% zu 50% erreicht wird und das Behinderte bei gleicher Befähigung vorrangig behandelt werden.  
+* Es ist darauf zu achten, dass in allen Vereinsorganen und bei sonstigen Aufgabenbereichen im Rahmen der Vereinsarbeit eine geschlechtliche Parität von 50% zu 50% erreicht wird und das Behinderte bei gleicher Befähigung vorrangig behandelt werden.  
 
 (3) Jedes Vereinsorgan ist verpflichtet ein Protokoll über seine Sitzungen zu führen. Das Protokoll ist für alle ordentlichen Mitglieder einsehbar.
 Jedes Vereinsorgan ist Verpflichtet das [Logbuch](4-Entscheidungsverfahren.md) der Entscheidungen zu führen.  
