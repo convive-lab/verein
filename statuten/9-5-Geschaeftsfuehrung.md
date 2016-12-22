@@ -18,6 +18,6 @@
 
 9. Die Geschäftsführung kann für ein Konto des Vereines zeichnungsberechtigt sein, wenn dies erforderlich ist, um laufende Rechnungen begleichen zu können.
 
-10. Weiters führt die Geschäftsführung eine Handkasse, in der sich aber tunlichst nicht mehr als 1.000.- EUR befinden dürfen.
+10. Weiters führt die Geschäftsführung eine Handkasse, in der sich aber tunlichst nicht mehr als 1.000.- EUR befinden sollen.
 
 11. Die Geschäftsführung ist an den/die Sprecher\*in (im Falle seiner/ihrer Verhinderung an den/die Stellvertreter\*in) und die Entscheidungen des Vorstandes weisungsgebunden.
