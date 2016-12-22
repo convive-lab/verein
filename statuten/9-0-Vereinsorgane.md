@@ -4,10 +4,10 @@
 
 * Es ist darauf zu achten, dass in allen Vereinsorganen und bei sonstigen Aufgabenbereichen im Rahmen der Vereinsarbeit eine geschlechtliche Parität von 50% zu 50% erreicht wird und das Behinderte bei gleicher Befähigung vorrangig behandelt werden.  
 
-(3) Jedes Vereinsorgan ist verpflichtet ein Protokoll über seine Sitzungen zu führen. Das Protokoll ist für alle ordentlichen Mitglieder einsehbar.
+* Jedes Vereinsorgan ist verpflichtet ein Protokoll über seine Sitzungen zu führen. Das Protokoll ist für alle ordentlichen Mitglieder einsehbar.
 Jedes Vereinsorgan ist Verpflichtet das [Logbuch](4-Entscheidungsverfahren.md) der Entscheidungen zu führen.  
 
-(4) Die Mitglieder von Organen - mit Ausnahme der Generalversammlung - bleiben auch bei Rücktritt so lange in ihrer Funktion, bis entsprechende Ersatzpersonen nominiert wurden.  
+* Die Mitglieder von Organen - mit Ausnahme der Generalversammlung - bleiben auch bei Rücktritt so lange in ihrer Funktion, bis entsprechende Ersatzpersonen nominiert wurden.  
 
 Die laut Statuten definierten Organe des Vereins sind:
 
