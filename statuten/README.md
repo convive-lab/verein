@@ -12,19 +12,19 @@ Besonderer Dank gilt dem [Tüwi](http://tuewi.action.at/) und dem [Gaga:rin](htt
 
 Wir werden das ändern.
 
-##[Name, Sitz und Tätigkeit des Vereins](1-Name_Sitz_und_Tätigkeitsbereich.md)
-##[Zweck des Vereins](2-Zweck.md)
-##[Mittel zur Erreichung des Vereinszweckes](3-Mittel_zur_Erreichung_des_Vereinszweckes.md)
-##[Entscheidungsverfahren](4-Entscheidungsverfahren.md)
-##[Arten der Mitgliedschaft](5-Arten_der_Mitgliedschaft.md)
-##[Erwerb der Mitgliedschaft](6-Erwerb_der_Mitgliedschaft.md)
-##[Beendigung der Mitgliedschaft](7-Beendigung_der_Mitgliedschaft.md)
-##[Rechte und Pflichten der Mitglieder](8-Rechte_und_Pflichten_der_Mitglieder.md)
-##[Vereinsorgane](9-0-Vereinsorgane.md)
-###[Die Generalversammlung](9-1-Generalversammlung.md)
-###[Der Vorstand](9-2-Vorstand.md)
-###[Die Rechnungsprüfer\*innen](9-3-RechnungsprueferInnen.md)
-###[Das Koordinator\*innengremium](9-4-KoordinatorInnengremium.md)
+## [Name, Sitz und Tätigkeit des Vereins](1-Name_Sitz_und_Tätigkeitsbereich.md)
+## [Zweck des Vereins](2-Zweck.md)
+## [Mittel zur Erreichung des Vereinszweckes](3-Mittel_zur_Erreichung_des_Vereinszweckes.md)
+## [Entscheidungsverfahren](4-Entscheidungsverfahren.md)
+## [Arten der Mitgliedschaft](5-Arten_der_Mitgliedschaft.md)
+## [Erwerb der Mitgliedschaft](6-Erwerb_der_Mitgliedschaft.md)
+## [Beendigung der Mitgliedschaft](7-Beendigung_der_Mitgliedschaft.md)
+## [Rechte und Pflichten der Mitglieder](8-Rechte_und_Pflichten_der_Mitglieder.md)
+## [Vereinsorgane](9-0-Vereinsorgane.md)
+### [Die Generalversammlung](9-1-Generalversammlung.md)
+### [Der Vorstand](9-2-Vorstand.md)
+### [Die Rechnungsprüfer\*innen](9-3-RechnungsprueferInnen.md)
+### [Das Koordinator\*innengremium](9-4-KoordinatorInnengremium.md)
 
-##Todo
+## Todo
 Geschäftsordnung?!
