@@ -26,6 +26,7 @@ Wir werden das ändern.
 ### [Die Rechnungsprüfer\*innen](9-3-RechnungsprueferInnen.md)
 ### [Das Koordinator\*innengremium](9-4-KoordinatorInnengremium.md)
 ### [Die Geschäftsführung](9-5-Geschaeftsfuehrung.md)
+### [Das Schiedsgericht](9-6-Schiedsgericht.md)
 
 ## Todo
 Geschäftsordnung?!
