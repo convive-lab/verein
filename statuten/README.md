@@ -28,6 +28,8 @@ Wir werden das ändern.
 ### [Die Geschäftsführung](9-5-Geschaeftsfuehrung.md)
 ### [Das Schiedsgericht](9-6-Schiedsgericht.md)
 ## [Haftung](10-Haftung.md)
+## [Spaltung des Vereins](11-Spaltung.md)
+## [Auflösung des Vereins](12-Aufloesung.md)
 
 ## Todo
 Geschäftsordnung?!
