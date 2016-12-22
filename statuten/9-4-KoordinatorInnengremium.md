@@ -1,6 +1,6 @@
 ### Das Koordinator\*innengremium
 
-1. Dieses besteht aus allen ordentlichen Mitgliedern, die eine koordinative Tätigkeit für den Verein in jeweiligen Themenbereichen (z.B.Kultur) ausüben. Insbesondere besteht is aus den Leiter\*innen und Delegierten der Vereinsorgane.
+1. Dieses besteht aus allen ordentlichen Mitgliedern, die eine koordinative Tätigkeit für den Verein in jeweiligen Themenbereichen ausüben. Insbesondere besteht is aus den Leiter\*innen und Delegierten der Vereinsorgane.
 
 2. Dieses Gremium dient der Koordination der laufenden Tätigkeiten, die nicht mit rechtlichen Verantwortlichkeiten im Zusammenhang stehen.
 

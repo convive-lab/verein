@@ -2,26 +2,28 @@
 
 Der Vorstand besteht aus drei stimmberechtigten Mitgliedern, gewählt von der Generalversammlung, und zwar:
 
-1. dem/der Sprecher\*in
+* dem/der Sprecher\*in
 * dem/der Schriftführer\*in
-* dem/der Kassier\*in
+* dem/der Kassier\*in   
 
-(1) Antragsberechtigt sind die Rechnungsprüfer\*innen, die Geschäftsführung, der/die Vorsitzende des Kontrollausschusses, das Forum für Kritik und die Koordinator\*innengremium.
+
+1. Antragsberechtigt sind die Rechnungsprüfer\*innen, die Geschäftsführung, der/die Vorsitzende des Kontrollausschusses, das Forum für Kritik und die Koordinator\*innengremium.
 Der Vorstand hat das Recht, in einzelnen Angelegenheiten Auskunftspersonen hinzuzuziehen.
 
-(2) Mindestens eines der gewählten Mitglieder muss wirtschaftlich oder juristisch sachkundig sein.
+2. Mindestens eines der gewählten Mitglieder muss wirtschaftlich oder juristisch sachkundig sein.
 
-(3) Der Vorstand hat bei Ausscheiden eines gewählten Mitgliedes das Recht ein neues interimistisch bis zur nächstfolgenden Generalversammlung einzusetzen.
+3. Der Vorstand hat bei Ausscheiden eines gewählten Mitgliedes das Recht ein neues interimistisch bis zur nächstfolgenden Generalversammlung einzusetzen.
 
-(4) Die Funktionsdauer des Vorstandes beträgt drei Jahre.
+4. Die Funktionsdauer des Vorstandes beträgt drei Jahre.
 Die Funktionsdauer eines Vorstandsmitgliedes und die damit verbundenen Verantwortlichkeiten enden erst, wenn die entsprechende Funktion neu besetzt ist.
 
-(5) Der Vorstand tritt mindestens viermal im Jahr zusammen. Die Vorstandssitzung ist nur für ordentliche Mitglieder zugänglich. Im Falle der Störung des Sitzungsablaufes hat der/die Sprecher\*in das Recht die Teilnahme an der Sitzung auf die Mitglieder des Vorstandes zu beschränken und die Beobachter\*innen aus dem Sitzungsraum zu weisen.
-Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder schriftlich eingeladen wurden und mindestens zwei anwesend sind.
+5. Der Vorstand tritt mindestens viermal im Jahr zusammen. Die Vorstandssitzung ist nur für ordentliche Mitglieder zugänglich. Insbesondere die Geschäftsführung ist eingeladen den Vorstandssitzungen beratend beizuwohnen. Im Falle der Störung des Sitzungsablaufes hat der/die Sprecher\*in das Recht die Teilnahme an der Sitzung auf die Mitglieder des Vorstandes zu beschränken und die Beobachter\*innen aus dem Sitzungsraum zu weisen.
 
-(6) Die Vertretungsorgane des Vereines nach außen sind der/die Sprecher\*in und der/die Kassier\*in.
+* Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder schriftlich eingeladen wurden und mindestens zwei anwesend sind.
 
-(7) Der Vorstand ist dazu verpflichtet, allen ordentlichen Mitgliedern jederzeit über die Vereinstätigkeit Auskunft zu geben; insbesondere ist den Mitgliedern des Kontrollausschusses und den Rechnungsprüfer\*innen Einsicht in alle Unterlagen des Vereines zu gewährleisten.
+6. Die Vertretungsorgane des Vereines nach außen sind der/die Sprecher\*in und der/die Kassier\*in.
+
+7. Der Vorstand ist dazu verpflichtet, allen ordentlichen Mitgliedern jederzeit über die Vereinstätigkeit Auskunft zu geben; insbesondere ist den Mitgliedern des Kontrollausschusses und den Rechnungsprüfer\*innen Einsicht in alle Unterlagen des Vereines zu gewährleisten.
 
 #### Aufgaben des Vorstandes
 Dem Vorstand obliegt die Leitung des Vereines. In seinen Wirkungsbereich fallen insbesonders folgende Angelegenheiten:
@@ -43,14 +45,14 @@ vorbehaltenen Handlungsbevollmächtigten.
 
 #### Die besonderen Aufgaben einzelner Vorstandsmitglieder
 
-(1) Der/die Sprecher\*in vertritt mit dem/der Kassier\*in gemeinsam den Verein nach außen. Rechtsgeschäftliche Bevollmächtigungen anderer Personen, den Verein zu vertreten, können nur in schriftlicher Form und nur durch diese Personen, erfolgen.
+1. Der/die Sprecher\*in vertritt mit dem/der Kassier\*in gemeinsam den Verein nach außen. Rechtsgeschäftliche Bevollmächtigungen anderer Personen, den Verein zu vertreten, können nur in schriftlicher Form und nur durch diese Personen, erfolgen.
 
-(2) Der/die Sprecher\*in leitet die Sitzungen des Vorstandes und der Generalversammlung, bei Verhinderung wird ein*e Stellvertreter\*in bestellt. Er/Sie hat über seine/ihre laufende Tätigkeit und in der Generalversammlung über die Tätigkeit des Vorstandes zu berichten. In schriftlichen Unterlagen, die die Vereinstätigkeit betreffen, hat er/sie den ordentlichen Mitgliedern Einsicht zu gewähren.
+2. Der/die Sprecher\*in leitet die Sitzungen des Vorstandes und der Generalversammlung, bei Verhinderung wird ein*e Stellvertreter\*in bestellt. Er/Sie hat über seine/ihre laufende Tätigkeit und in der Generalversammlung über die Tätigkeit des Vorstandes zu berichten. In schriftlichen Unterlagen, die die Vereinstätigkeit betreffen, hat er/sie den ordentlichen Mitgliedern Einsicht zu gewähren.
 
-(3) Der/die Sprecher\*in ist gemeinsam mit dem/der Kassier\*in bei dringenden Angelegenheiten im Namen des Vereines berechtigt, Entscheidungen ohne den Beschluss eines Vereinsorganes zu treffen, wofür er/sie jedoch die Verantwortung zu tragen haben. Das recht aller ordentlichen Mitglieder, jederzeit einen schwerwiegenden Einwand zu äußern bleibt davon unberührt.
+3. Der/die Sprecher\*in ist gemeinsam mit dem/der Kassier\*in bei dringenden Angelegenheiten im Namen des Vereines berechtigt, Entscheidungen ohne den Beschluss eines Vereinsorganes zu treffen, wofür er/sie jedoch die Verantwortung zu tragen haben. Das recht aller ordentlichen Mitglieder, jederzeit einen schwerwiegenden Einwand zu äußern bleibt davon unberührt.
 
-(4) Der/die Kassier\*in ist für die finanzielle Gebahrung des Vereines verantwortlich und führt die entsprechenden Bankkonti des Vereines. Zusätzlich verwaltet er/sie eine Handkasse, in der tunlichst nie mehr als 500.- EUR vorhanden sein sollten. Höhere Summen sind immer auf einem Bankkonto zu verwahren.
+4. Der/die Kassier\*in ist für die finanzielle Gebahrung des Vereines verantwortlich und führt die entsprechenden Bankkonti des Vereines. Zusätzlich verwaltet er/sie eine Handkasse, in der tunlichst nie mehr als 500.- EUR vorhanden sein sollten. Höhere Summen sind immer auf einem Bankkonto zu verwahren.
 
-(5) Der/die Schriftführer\*in überwacht die führung der Protokolle und des Logbuchs.
+* Der/die Schriftführer\*in überwacht die führung der Protokolle und des Logbuchs.
 
-(6) Bei Verhinderung werden die Aufgaben der/des Sprecher\*in und des/der Kassiers\*in durch bevollmächtigte Stellvertreter\*innen übernommen.
+* Bei Verhinderung werden die Aufgaben der/des Sprecher\*in und des/der Kassiers\*in durch bevollmächtigte Stellvertreter\*innen übernommen.
