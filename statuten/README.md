@@ -27,6 +27,7 @@ Wir werden das ändern.
 ### [Das Koordinator\*innengremium](9-4-KoordinatorInnengremium.md)
 ### [Die Geschäftsführung](9-5-Geschaeftsfuehrung.md)
 ### [Das Schiedsgericht](9-6-Schiedsgericht.md)
+## [Haftung](10-Haftung.md)
 
 ## Todo
 Geschäftsordnung?!
