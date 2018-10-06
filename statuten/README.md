@@ -1,9 +1,9 @@
-#Statuten
+# Statuten
 
 1. FYI Die Statuten sind nooch nicht fertig :)
 2. Die jeweils aktuell gültigen Statuten finden sich in der master branch dieses Repositoriums
 
-##Präambel
+## Präambel
 
 Besonderer Dank gilt dem [Tüwi](http://tuewi.action.at/) und dem [Gaga:rin](https://cafegagarin.at/) die vorzeigen was alles geht.
 
